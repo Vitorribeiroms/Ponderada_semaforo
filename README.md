@@ -70,7 +70,7 @@ O ciclo se repete continuamente: **verde → amarelo → vermelho → verde**.
 
 ---
 
-### VIDEO EXPLICATIVO ESTA NA PASTA ASSETS EM "Vídeo"
+### VÍDEO EXPLICATIVO  → https://youtube.com/shorts/dsPLUZ0FLsY?si=V5mdG4xHydw_tbU0"
 
 ----
 
