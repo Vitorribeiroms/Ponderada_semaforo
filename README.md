@@ -14,8 +14,8 @@ O sistema segue a lógica real de tempo e sequência das luzes: **vermelho → a
 
 ## Contexto do Projeto
 
-Durante o estágio no **Departamento de Engenharia de Trânsito**, fui designado para controlar o fluxo de uma via movimentada no bairro **Butantã**.  
-O desafio consistia em **montar e programar um semáforo** que garantisse a segurança de pedestres e veículos, aplicando conhecimentos de eletrônica e programação para criar um sistema essencial de controle de tráfego.
+  
+O desafio consistia em **montar e programar um semáforo** que simulasse a garantia e a segurança de pedestres e veículos, aplicando conhecimentos de eletrônica e programação para criar um sistema essencial de controle de tráfego.
 
 ---
 
