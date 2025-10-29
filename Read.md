@@ -1,4 +1,4 @@
-# 🚦 Projeto: Semáforo com Arduino – Departamento de Engenharia de Trânsito
+# 🚦 Projeto: Semáforo com Arduino 
 
 ##  Autor
 **Vitor Ribeiro**
